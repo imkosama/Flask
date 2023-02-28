@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.todo {
+    padding: 20px;
+    margin: 10px;
+    background-color: #eee;
+    text-align: center;
+    cursor: pointer;
+}
+
+p{
+    color: rgb(1, 1, 1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+    margin: 20px;
+    cursor: pointer;
+}
+
+input:hover{
+    border: 20px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 1.3em;
+    cursor: pointer;
+
+}
